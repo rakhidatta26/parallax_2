@@ -1,0 +1,36 @@
+/*parallax*/
+* { margin: 0; padding: 0; }
+      body {
+            font-family: 'Open Sans', sans-serif;
+            color: #444;
+            line-height: 1.4;
+            overflow-x: hidden;
+            background: url(http://subtlepatterns.com/patterns/geometry2.png);
+        }
+        .text-center {
+            text-align: center;
+        }
+        .p50 {
+          padding-top: 50px;
+          padding-bottom: 50px;
+        }
+       
+        .box {
+            width: 90%;
+            margin: 0 auto;
+            background: aqua;
+            padding: 100px;
+            box-sizing: border-box;
+            border: 1px solid #ddd;
+            box-shadow: 0 0 1px #777;
+            margin-bottom: 15px;
+        }
+        .b2 {
+            background: blue;
+        }
+
+
+
+
+
+        
